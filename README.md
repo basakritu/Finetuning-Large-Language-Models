@@ -15,7 +15,7 @@ Explore the art of optimizing your model's guidance for specific tasks, ensuring
  
 
 # Data Preparation: 
-Learn how to prepare your data effectively to get the most out of your finetuning process.
+Prepare your data effectively to get the most out of your finetuning process.
  
 
 # Training and Evaluation: 
