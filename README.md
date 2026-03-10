@@ -1,5 +1,5 @@
 # Finetuning Large Language Models
-Learn the ins and outs of finetuning Large Language Models (LLMs) to supercharge your NLP projects.
+The ins and outs of finetuning Large Language Models (LLMs) to supercharge your NLP projects.
 
 
 # Why Finetuning: 
